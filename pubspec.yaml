@@ -1,0 +1,28 @@
+name: bca_career_guide
+description: A Flutter application showcasing career options after BCA degree.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^5.0.0
+  google_fonts: ^5.1.0
+  provider: ^6.0.5
+  lottie: ^2.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/lotties/splash.json
+  # assets:
+  #   - assets/images/ 
