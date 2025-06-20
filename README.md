@@ -29,9 +29,6 @@ This app provides clear and concise information on various opportunities availab
 *   **💡 Skill Roadmaps:**
     *   Guidance on the key technical and soft skills required for each career path.
 
-*   **❓ Interview Prep:** (Optional - if you have this feature)
-    *   A section with common interview questions and tips for cracking technical and HR rounds.
-
 ---
 
 ## 🛠️ Technology Stack
